@@ -6,7 +6,7 @@ terraform {
       name = "policy-dev-mbp"
     }
   }
-  */
+ */
   required_providers {
     aws = {
       source = "hashicorp/aws"
